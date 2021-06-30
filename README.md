@@ -1,7 +1,7 @@
 # Divide-and-Conquer-for-Matrix-Multiplication
 
 ## Problem Introduction:
->The goal in this problem is to find the product of multiplying two matrices X and Y using divide-
+The goal in this problem is to find the product of multiplying two matrices X and Y using divide-
 and-conquer.
 The product of two n × n matrices X and Y is a third n × n matrix Z = XY , with (i, j) th entry
 <br>
