@@ -5,7 +5,7 @@
 and-conquer.
 The product of two n × n matrices X and Y is a third n × n matrix Z = XY , with (i, j) th entry
 <br>
-![img](graph.png) <br>
+![img](graph.png) 
 ## Problem Description
 Given two square matrices X and Y of size n x n each , find their product XY n x n using a
 divide and conquer approach. Hint: Partitioning
